@@ -4,6 +4,27 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+
+    <PackageId>FlpDecimalConversion</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Felipe Silva</Authors>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>Extension to convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/FlpSlva/ExtensionMoney</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/FlpSlva/ExtensionMoney</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <ReleaseNotes>FlpDecimalConversion</ReleaseNotes>
+    <Title>Flunt</Title>
+    <Summary>FlpDecimalConversion</Summary>
+
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../Media/icon.png" Pack="true" PackagePath="/"/>
+  </ItemGroup>
 
 </Project>
