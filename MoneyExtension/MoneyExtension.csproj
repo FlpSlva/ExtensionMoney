@@ -7,7 +7,7 @@
 
 
     <PackageId>FlpDecimalConversion</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Felipe Silva</Authors>
     <PackageDescription>Extension to convert decimal to integer</PackageDescription>
